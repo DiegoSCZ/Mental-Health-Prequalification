@@ -53,3 +53,4 @@ run_test(listadopreguntas)
 
 #preguntas = [
 #    Pregunta(preguntas_cuestionario[0],"a" or "b") #el problema acá es que necesito que cada pregunta considere como validas cualquiera de las dos respuestas, creo que el "or" no es una herramienta valida#
+print(consejerias)
